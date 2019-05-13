@@ -1,1 +1,1 @@
-h1{color:#ce1126;padding:1rem}.container{position:relative;overflow:hidden;width:900px;height:500px;margin:0 auto}.container img{position:absolute;left:0;transition:opacity 1s ease-in-out}.container img.img2:hover{opacity:0}
+.navbar,footer{background-color:#ACD143}.jumbotron{background:url(/images/lindsay-moe.jpg) center;background-size:cover;height:100vh}.gallery-section img,.menu-section img{width:350px;height:350px;-o-object-fit:cover;object-fit:cover}
