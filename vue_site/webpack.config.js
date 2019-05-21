@@ -7,7 +7,7 @@ module.exports = {
     path: path.resolve(__dirname, './dist'),
     filename: 'build.js',
     publicPath: process.env.NODE_ENV === 'production'
-    ? '/my-project/'
+    ? '/html300project/'
     : '/'
   },
   module: {
