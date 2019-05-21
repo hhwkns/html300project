@@ -5,10 +5,8 @@ module.exports = {
   entry: './src/main.js',
   output: {
     path: path.resolve(__dirname, './dist'),
-    filename: 'build.js',
-    publicPath: process.env.NODE_ENV === 'production'
-    ? '/html300project/'
-    : '/'
+    publicPath: '/dist/',
+    filename: 'build.js'
   },
   module: {
     rules: [
